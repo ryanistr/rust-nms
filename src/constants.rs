@@ -1,0 +1,1 @@
+pub const HISTORY_SIZE: usize = 60;

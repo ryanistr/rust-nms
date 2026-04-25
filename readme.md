@@ -1,4 +1,5 @@
-# rust-nms-tui
+# rust-nms
+A Rust based network management system for Linux with Text User Interface (TUI)
 
 ## What is NMS
 A Network Management System (NMS) application monitors, maintains, and optimizes network infrastructure. It provides visibility into device status, traffic flow, and system metrics to detect anomalies and manage network configurations.
